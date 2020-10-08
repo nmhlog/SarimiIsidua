@@ -1,1 +1,5 @@
-from  PIL import Image
+helo = 1213
+print(str(helo) + " values")
+
+
+ 
