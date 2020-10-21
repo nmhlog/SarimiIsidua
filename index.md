@@ -4,7 +4,7 @@
 more about:<br>
 [Pengcit Bersahaja web](https://nmhlog.github.io/SarimiIsidua/) &nbsp;
 [GitHub](https://nmhlog.github.io/SarimiIsidua/) &nbsp;
-[Helper.py](SarimiIsidua/lab04/helper.py) &nbsp;
+[Helper.py](/lab04/helper.py) &nbsp;
 
 
 
